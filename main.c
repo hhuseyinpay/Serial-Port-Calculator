@@ -130,7 +130,7 @@ void SetupUSART()
     osDelay(50);
 }
 
-const char mymessage[] = " *Basic Serial Port Dongle v1\n\0";
+const char mymessage[] = " *Basic Serial Port Calculator v1\n\0";
 
 int main(void)
 {
